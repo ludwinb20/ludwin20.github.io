@@ -15,7 +15,7 @@ Programador web con experiencia en proyectos de diferentes indoles como gestion 
 Manejo diferentes lenguajes de programacion y tecnologias, lo que me permite ser un desarrollador bastante versatil. A continuacion enummero algunos de lenguajes y tecnologias en los que me siento comodo trabajando.
 
 - Lenguajes de programación: [PHP](https://www.php.net/), [Javascript](https://www.javascript.com/), [Python](https://www.python.org/), [Dart](https://dart.dev/), HTML y CSS
-- Frameworks: [Laravel](https://laravel.com/), [Express.js](https://expressjs.com/), [Flutter](https://flutter.dev/), [CodeIgniter](https://www.codeigniter.com/),[Django](https://www.djangoproject.com/)
+- Frameworks: [Laravel](https://laravel.com/), [Express.js](https://expressjs.com/), [Flutter](https://flutter.dev/), [CodeIgniter](https://www.codeigniter.com/),[Django](https://www.djangoproject.com/), [Typescript](https://www.typescriptlang.org/)
 - Herramientas: [Git](https://git-scm.com/), [Github](https://github.com/), [Pusher](https://pusher.com/).
 
 ## Contacto
@@ -23,6 +23,7 @@ Manejo diferentes lenguajes de programacion y tecnologias, lo que me permite ser
 - Correo electrónico: lblancoorellana@gmail.com
 - LinkedIn: [Ludwin Blanco](https://www.linkedin.com/in/ludwin-blanco-72b42b195/)
 - GitHub: [ludwinb20](https://github.com/ludwinb20)
+- Telefono: +504 96641744
 
 ## Licencia
 
