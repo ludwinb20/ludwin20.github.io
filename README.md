@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ludwin Blanco</h1>
-<h3 align="center">Detail-oriented software developer with 3 years of experience in web applications, procient in JavaScript and React, eager to contribute to innovative projects.</h3>
+<h3 align="center">Detail-oriented web developer with 3 years of experience in web applications, procient in JavaScript and React, eager to contribute to innovative projects.</h3>
 
 - 🔭 I’m currently working on [Iobot](https://app.iobot.chat/login)
 
